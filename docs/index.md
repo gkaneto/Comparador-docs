@@ -30,7 +30,7 @@ Para testar o aplicativo, você precisa me enviar o seu endereço de **e-email c
 
 [Enviar endereço de email :material-whatsapp:](https://wa.me/5511983843193?text=Oi!%20Pode%20me%20incluir%20na%20lista%20de%20teste!%20Meu%20e-mail%20na%20Google%20Play%20%C3%A9:){:target="_blank" .md-button .md-button--primary  }
 
-[Baixar app na Google Play :material-google-play: ](https://play.google.com/apps/testing/com.gkaneto.Comparador){:target="_blank" .md-button }
+[Baixar app na Google Play :material-google-play: ](https://play.google.com/store/apps/details?id=com.gkaneto.Comparador){:target="_blank" .md-button }
 
 ### Versão de teste
 

@@ -69,7 +69,7 @@ Conforme você edita alguns valores, outros são recalculados. Então, há duas 
 
 A escolha da unidade de medida é bem importante, pois é a base de comparação para o preço relativo.
 
-- Além das unidades de massa e volume predefinidas , você pode escolher Outra: e digitar uma unidade de quantificação qualquer, como `folhas` ou `parafusos`.
+- Além das unidades de massa e volume predefinidas , você pode escolher `Outra:` e digitar uma unidade de quantificação qualquer, como `folhas` ou `parafusos`.
 - Para comprimento, o aplicativo por enquanto reconhece `m`, `cm` e `km` para posterior conversão entre essas unidades de medida. Para dar certo, precisa ser em letras minúsculas (é uma limitação boba que reparei ontem; simples de corrigir na próxima versão).
 - Para palavras, você pode inserir singular e plural separados por vírgula: `parafuso,parafusos`, por exemplo. Daí, o aplicativo tenta mostrar a forma correta conforme necessário. Esse recurso é importante para que os revisores não pirem ao usar o aplicativo. 
 - Também planejo inserir unidades fora do sistema métrico, mas isso não é uma prioridade.
