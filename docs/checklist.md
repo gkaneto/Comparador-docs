@@ -3,10 +3,6 @@
 
 Se você quiser ir mais a fundo, no detalhe mesmo, preparei uma lista com algumas coisas para se atentar.
 
-Também está no Google Docs, caso queira incluir respostas: abra o *link*, salve uma cópia para você, edite conforme necessário e me manda de volta.
-
-[Cheklist no Google Docs :simple-googledocs:](link){ .md-button }
-
 ## Visual geral
 
 Se algo parecer torto ou fora do lugar, tire um print, porfa. Como são muitas opções de aparelho e de tela, é provável que em alguma fique desconfigurado, e talvez seja possível contornar a situação no código de programação do aplicativo.
