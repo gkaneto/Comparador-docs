@@ -1,4 +1,9 @@
-# Instruções detalhadas
+---
+hide:
+  - navigation
+---
+
+# Manual de uso
 
 Reiterando: a leitura desta parte é opcional. Tentei manter o aplicativo simples, de modo que funcione sem manual. 
 

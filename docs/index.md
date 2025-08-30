@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Bem vindo ao teste!
 
 Oi, gente! Tirei umas horinhas da semana que passear pelo mundinho de desenvolvimento de aplicativos... :nerd: Se vocês puderem me ajudar a testá-lo.. :pray:
@@ -41,7 +45,7 @@ Nesta versão de teste, há três botões cinza pequenos na tela inicial:
 
 Para começar o teste rapidamente, você pode apertar `Carregar exemplo`.
 
-## Instruções de uso do aplicativo
+## Manual de uso do aplicativo
 
 !!! warning "Separador decimal"
 
@@ -49,7 +53,7 @@ Para começar o teste rapidamente, você pode apertar `Carregar exemplo`.
 
 A leitura desta parte é opcional. Tentei manter o aplicativo simples, de modo que as pessoas consigam usá-lo sem manual. (Nem sempre consegui :grimacing::sweat_smile: A parte sobre unidades de medida está meio confusa.)
 
-Para acessar as informações mais completas, vá para a página [Instruções detalhadas](instrucoes.md).
+Para acessar as informações mais completas, vá para a página [Manual de uso](instrucoes.md).
 
 ## Como testar, indicar erros e sugerir mudanças
 

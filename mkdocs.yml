@@ -1,8 +1,16 @@
 site_name: Teste do Comparador de Preços
+nav:
+  - Bem vindo: index.md
+  - Manual de uso: instrucoes.md
+  - Testando e reportando: teste.md
+  - Checklist detalhado: checklist.md
 theme:
   logo: assets/icon.png
   favicon: assets/icon.png
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
   palette:
     # Dark Mode
     - scheme: slate

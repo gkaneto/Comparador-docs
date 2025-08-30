@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Testando e reportando
 
 Há duas possibilidades de teste. Fique a vontade pra seguir qualquer caminho:
@@ -7,9 +12,9 @@ Há duas possibilidades de teste. Fique a vontade pra seguir qualquer caminho:
 
 Se reparar algo errado ou tiver alguma sugestão, você pode me enviar uma mensagem.
 
-Já adianto que há probleminhas e limitações já conhecidos, infelizmente...
+Já adianto que há probleminhas já conhecidos, infelizmente...
 
-## Limitações conhecidas
+## Limitações e erros conhecidos
 
 ### Erro de arredondamento
 
@@ -30,6 +35,10 @@ Estou montando uma listinha no Github:
 - no [formato lista](https://github.com/gkaneto/Comparador-bugs-e-melhorias/issues){:target="_blank"}
 - no [formato quadro](https://github.com/users/gkaneto/projects/1/views/1){:target="_blank"}
 
-Você pode só entrar e olhar. Mas se quiser, só pela diversão, pode criar um usuário no github e incluir você mesmo um problema na lista. Ainda dá pra acompanhar como eu vou priorizar resolver seu probleminha e se ele já foi solucionado.
+Você pode só entrar e olhar. Mas, se quiser - só pela diversão - pode criar um usuário no github e incluir você mesmo um problema nessa lista. 
 
 *[diversão]: Uau! Que ótima forma de gastar um tempinho do final de semana!
+
+Para isso, basta usar o botão "New issue" e escolher se quer indicar um *bug* ou uma melhoria.
+
+Ainda dá pra acompanhar como eu vou priorizar resolver seu probleminha e se ele já foi solucionado.
