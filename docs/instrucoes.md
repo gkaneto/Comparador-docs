@@ -23,7 +23,7 @@ Escolhendo um produto, abre a tela com as opções de compra para cada produto.
 
 <div markdown = "1" class='container'>
 
-<div markdown = "1">
+<div markdown = "block">
 ### Tela: Lista de opções de um produto
 
 ![Tela: lista de opções](assets/tela_opcoes_300px.jpg#right)
@@ -37,11 +37,13 @@ A conversão entre unidades é importante pois você pode incluir, por exemplo, 
 Tocando em uma opção de produto, abre a tela com os detalhes dela.
 
 </div>
+</div>
 
-<div markdown = "1">
+<div markdown = "1" class='container'>
+<div markdown = "block">
 ### Tela: Detalhes da um opção de produto
 
-![Tela: lista de opções](assets/tela_detalhe_opcao_300px.jpg){align=right}
+![Tela: lista de opções](assets/tela_detalhe_opcao_300px.jpg#right)
 
 Nesta tela, você pode inserir e editar:
 
@@ -63,7 +65,7 @@ Conforme você edita alguns valores, outros são recalculados. Então, há duas 
 
 ### Unidade de medida
 
-![Modal: unidade de medida](assets/modal_unidade_250px.jpg){align=right}
+![Modal: unidade de medida](assets/modal_unidade_250px.jpg#right)
 
 A escolha da unidade de medida é bem importante, pois é a base de comparação para o preço relativo.
 

@@ -4,7 +4,7 @@ hide:
 ---
 # Bem vindo ao teste!
 
-Oi, gente! Tirei umas horinhas da semana que passear pelo mundinho de desenvolvimento de aplicativos... :nerd: Se vocês puderem me ajudar a testá-lo.. :pray:
+Oi, gente! Tirei umas horinhas da semana passada pra passear pelo mundinho de desenvolvimento de aplicativos... :nerd: Se vocês puderem me ajudar a testá-lo... :pray:
 
 
 ## Objetivo geral do aplicativo
@@ -14,7 +14,7 @@ Para cada produto, comparar o preço de diferentes opções, levando em conta a 
 
 ## Exemplo de uso
 
-Você insere que um pacote de papel higiênico custa 30 reais e vem com 24 rolos de 30 metros; o aplicativo calcula o preço por rolo e por metro, facilitando a comparação de diversas opções de compra.
+Você informa que um pacote de papel higiênico custa 30 reais e vem com 24 rolos de 30 metros. Daí o aplicativo calcula o preço por rolo e por metro (ou por quilômetro!), facilitando a comparação de diversas opções de compra.
 
 <div align="center"> <img src="assets/tela_papel_higienico_300px.jpg"></div>
 
