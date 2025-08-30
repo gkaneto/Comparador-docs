@@ -1,0 +1,42 @@
+site_name: Teste do Comparador de Preços
+theme:
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep purple
+      accent: orange
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: deep purple
+      accent: blue grey
+  font:
+    text: Montserrat Alternates
+    code: Red Hat Mono
+
+extra_css:
+      - styles/extra.css
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.tabbed:
+      alternate_style: true
