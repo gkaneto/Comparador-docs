@@ -47,8 +47,8 @@ Tocando em uma opção de produto, abre a tela com os detalhes dela.
 
 Nesta tela, você pode inserir e editar:
 
-  - nome da opção (obrigatório)
-  - loja que está vendendo (opcional)
+  - nome da opção {--(obrigatório)--} {==(edit: 31.ago)==}
+  - loja que está vendendo {--(opcional)--} {==(edit: 31.ago)==}
   - valores e quantidades
   - unidade de medida
 
