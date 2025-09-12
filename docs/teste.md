@@ -16,17 +16,17 @@ Já adianto que há probleminhas já conhecidos, infelizmente...
 
 ## Limitações e erros conhecidos
 
-### Erro de arredondamento
+### {--Erro de arredondamento--} {==(corrigido)==}
 
-O programa no momento arredonda tudo pra duas casas decimais. Então, às vezes acontece de o valor recalculdado mudar sozinho para algo que você não digitou.
+{--O programa no momento arredonda tudo pra duas casas decimais. Então, às vezes acontece de o valor recalculdado mudar sozinho para algo que você não digitou.--}
 
-Eu não mudei ainda porque preciso mudar um trecho grande do código, pra separar os dados armazenados dos dados exibidos.
+{--Eu não mudei ainda porque preciso mudar um trecho grande do código, pra separar os dados armazenados dos dados exibidos.--}
 
-### Opção de produto com desrição vazia
+### {--Opção de produto com desrição vazia--} {==(alterado)==}
 
-Ao criar uma nova opção, o usuário não consegue salvá-la se o campo "Descrição" estiver vazio. Mas se apertar "voltar" (na tela ou usando o botão do celular) sem alterar nada, será criada uma opção "vazia". 
+{--Ao criar uma nova opção, o usuário não consegue salvá-la se o campo "Descrição" estiver vazio. Mas se apertar "voltar" (na tela ou usando o botão do celular) sem alterar nada, será criada uma opção "vazia". --}
 
-No momento, estou vendo o melhor jeito de lidar com isso, sem atrapalhar outras funcionalidades ou complicar demais. Para contornar, é possível entrar na opção vazia e apertar "Excluir".
+{--No momento, estou vendo o melhor jeito de lidar com isso, sem atrapalhar outras funcionalidades ou complicar demais. Para contornar, é possível entrar na opção vazia e apertar "Excluir".--}
 
 ### Outros problemas e melhorias
 
