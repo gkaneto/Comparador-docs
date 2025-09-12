@@ -47,10 +47,6 @@ Para começar o teste rapidamente, você pode apertar `Carregar exemplo`.
 
 ## Manual de uso do aplicativo
 
-!!! warning "Separador decimal"
-
-    Por enquanto, o aplicativo só aceita ponto com separador decimal, e não vírgula. 
-
 A leitura desta parte é opcional. Tentei manter o aplicativo simples, de modo que as pessoas consigam usá-lo sem manual. (Nem sempre consegui :grimacing::sweat_smile: A parte sobre unidades de medida está meio confusa.)
 
 Para acessar as informações mais completas, vá para a página [Manual de uso](instrucoes.md).
