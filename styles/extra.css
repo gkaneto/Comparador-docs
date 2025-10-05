@@ -1,0 +1,24 @@
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    display: block;
+    float: right;
+}
+
+@media screen and (max-width: 550px) {
+    img[src*='#right'] {
+        
+        float: none
+    }
+}
+
+
+img[src*='#center'] {
+    display: flex;
+    margin: auto;
+}
+
+.container {
+    display: grid;
+}
